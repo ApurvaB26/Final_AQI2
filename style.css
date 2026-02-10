@@ -1,0 +1,195 @@
+.element-AQI-vs {
+  background-image: url(https://c.animaapp.com/TfveoymT/img/uploaded-asset-1770725385726-0.png);
+  background-size: cover;
+  background-position: 50% 50%;
+  width: 100%;
+  min-width: 1920px;
+  min-height: 1080px;
+  position: relative;
+}
+
+.element-AQI-vs .internal-AQI {
+  display: flex;
+  flex-direction: column;
+  width: 537px;
+  align-items: center;
+  justify-content: center;
+  gap: 48px;
+  padding: 84px 142px 76px;
+  position: absolute;
+  top: calc(50.00% - 282px);
+  left: 1297px;
+  background-color: #ffffffb2;
+  border-radius: var(--shape-corner-large);
+  backdrop-filter: blur(8px) brightness(100%);
+  -webkit-backdrop-filter: blur(8px) brightness(100%);
+}
+
+.element-AQI-vs .one-lodha-place {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  margin-left: -6.50px;
+  margin-right: -6.50px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #646464;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 2.88px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.element-AQI-vs .text-wrapper {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter", Helvetica;
+  font-weight: 200;
+  color: #646464;
+  font-size: 152px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 152px;
+  white-space: nowrap;
+}
+
+.element-AQI-vs .PM-and-PM {
+  display: inline-flex;
+  align-items: center;
+  gap: 28px;
+  padding: 20px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-left: -93.50px;
+  margin-right: -93.50px;
+  background-color: #ffffffbf;
+  border-radius: var(--shape-corner-small);
+}
+
+.element-AQI-vs .PM {
+  border: 1px solid;
+  border-color: #ffffff;
+  display: inline-flex;
+  flex-direction: column;
+  height: 92px;
+  align-items: flex-start;
+  gap: 15px;
+  padding: 16px 24px;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: var(--shape-corner-small);
+}
+
+.element-AQI-vs .div {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #646464;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 2.40px;
+  line-height: 20px;
+}
+
+.element-AQI-vs .PM-value {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  padding: 0px 8px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.element-AQI-vs .element-g-m {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #646464;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.element-AQI-vs .span {
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #646464;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.element-AQI-vs .line {
+  position: relative;
+  width: 1px;
+  height: 92px;
+  object-fit: cover;
+}
+
+.element-AQI-vs .PM-2 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 92px;
+  align-items: flex-start;
+  gap: 15px;
+  padding: 16px 24px;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: var(--shape-corner-small);
+}
+
+.element-AQI-vs .group {
+  position: absolute;
+  top: calc(50.00% - 70px);
+  left: calc(50.00% - 817px);
+  width: 855px;
+  height: 140px;
+}
+
+.element-AQI-vs .indoor-air-quality {
+  position: absolute;
+  top: calc(50.00% - 13px);
+  left: calc(50.00% - 428px);
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 52px;
+  letter-spacing: 2.08px;
+  line-height: 83.2px;
+  white-space: nowrap;
+}
+
+.element-AQI-vs .text-wrapper-2 {
+  font-weight: 500;
+  color: #646464;
+  letter-spacing: 1.08px;
+}
+
+.element-AQI-vs .text-wrapper-3 {
+  font-weight: 700;
+  color: #44a531;
+  letter-spacing: 1.08px;
+}
+
+.element-AQI-vs .text-wrapper-4 {
+  position: absolute;
+  top: 0;
+  left: calc(50.00% - 428px);
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #646464;
+  font-size: 24px;
+  letter-spacing: 2.88px;
+  line-height: 24px;
+  white-space: nowrap;
+}
