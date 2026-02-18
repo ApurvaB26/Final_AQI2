@@ -9,7 +9,7 @@
 }
 
 .element-AQI-vs .internal-AQI {
-  display: flex;
+  display: w-full flex;
   flex-direction: column;
   width: 537px;
   align-items: center;
