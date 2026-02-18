@@ -2,10 +2,10 @@
   background-image: url(https://c.animaapp.com/TfveoymT/img/uploaded-asset-1770725385726-0.png);
   background-size: cover;
   background-position: 50% 50%;
-  width: 100%;
-  min-width: 1920px;
-  min-height: 1080px;
-  position: relative;
+  width: 100wh;
+  height:100vh
+  position: fixed;
+  overflow hidden;
 }
 
 .element-AQI-vs .internal-AQI {
